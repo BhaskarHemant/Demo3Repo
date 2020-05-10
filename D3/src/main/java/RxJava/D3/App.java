@@ -29,4 +29,8 @@ public class App
      public void mRemote3() {
     	System.out.println("remote3");
     }
+    
+     public void mRemote4() {
+    	System.out.println("remote4");
+    }
 }
