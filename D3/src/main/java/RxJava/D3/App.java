@@ -11,4 +11,7 @@ public class App
     public void mLocal() {
     	System.out.println("local");
     }
+    public void mRemote() {
+    	System.out.println("remote");
+    }
 }
