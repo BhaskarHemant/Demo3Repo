@@ -26,4 +26,7 @@ public class App
     public void mLocal3() {
     	System.out.println("local3");
     }
+     public void mRemote3() {
+    	System.out.println("remote3");
+    }
 }
